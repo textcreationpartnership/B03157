@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and true relation of the late plots which were contrived and hatched in Ireland. 1. A coppy of a letter sent from the Lord chiefe Iustices and Privy Councell in Ireland, to our parliament here in England. 2. Their last proclamation which they published concerning those traytors. 3. The whole discourse of the plot revealed by Owen Ockanellee who is now in Englond [sic]. 4. The dangerous and extraordinary deliverance of the party who narrowly escaped with his life. 5. The reward the Parliament hath confirmed upon him. 6. The true relation of the whole treason related by the Lord Keeper, to the Honourable House of Commons the first of November. 1641.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03157</idno>
+            <idno type="STC">Wing E3621</idno>
+            <idno type="STC">Thomason E.173[30]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.40.m.9.[40]</idno>
+            <idno type="EEBO-CITATION">99882980</idno>
+            <idno type="PROQUEST">ocm99882980</idno>
+            <idno type="VID">182195</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03157)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182195)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:2[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and true relation of the late plots which were contrived and hatched in Ireland. 1. A coppy of a letter sent from the Lord chiefe Iustices and Privy Councell in Ireland, to our parliament here in England. 2. Their last proclamation which they published concerning those traytors. 3. The whole discourse of the plot revealed by Owen Ockanellee who is now in Englond [sic]. 4. The dangerous and extraordinary deliverance of the party who narrowly escaped with his life. 5. The reward the Parliament hath confirmed upon him. 6. The true relation of the whole treason related by the Lord Keeper, to the Honourable House of Commons the first of November. 1641.</title>
+                  <author>O'Connolly, Owen.</author>
+                  <author>Ireland. Lords Justices and Council.</author>
+               </titleStmt>
+               <extent>[1]+ leaves   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Coules,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1641].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T.p. has a woodcut illustration.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Imperfect: t.p. and verso only; faded print affecting imprint date.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  Proceedings. 1641-11-01 --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+               <term>Ireland --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:182195:1"/>
+            <!-- PDF PAGE 3 -->
+            <head>A Letter ſent from M. <hi>Chappell</hi> out of <hi>Ireland,</hi> to a friend of his in <hi>London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Letter bearing date the 28 of the laſt Month, I have re<g ref="char:EOLhyphen"/>ceived, being ſorry to heare of your diſcontents in <hi>London</hi> but I hope God will in his good time turne all to the beſt: for thoſe that that truly feare him. Our Rebellion heare day<g ref="char:EOLhyphen"/>ly increaſeth, ſo that we cannot travell any way from this City above a mile or 2 without danger; ſince S. <hi>Samuel Harcourt</hi> came over, we in this City have been much incouraged, his men were landed on <hi>Newyears</hi> day, and though they were but one regiment, conciſting but of 7 Companies yet they have bred ſome terror to our enemies, who before reported that the King would ſend us no help, and cals us <hi>Engliſh Rebels;</hi> they began to incamp cloſe about us at <hi>Clantaf,</hi> which is but 2 miles hence; but Sr. <hi>Charles Coote,</hi> the week before <hi>Chriſtmas,</hi> with about 1500 horſe and foot march towards them, and was with them as ſoon as there was any light in the morning, and put them to ſlight; ſome he kill'd ſome he cauſed to be hanged, and 3 or 4 he took priſoners, and after the Town was pillaged by his Souldiers, he ſet it a fire with the Corne, which fire was not out in 3 or 4 dayes after: it is thought that there were at leaſt 2000 Rebels in the Town when Sr <hi>Charles</hi> came to it, he loſt not one man at that time that I can heare of. The laſt week the Earle of <hi>Ormand</hi> and Sr <hi>Charles</hi> march't forth, both of them about 1 and 2 of the clock in the morning, and when they weare without the Town, my L. of <hi>Ormand</hi> with his forces march't toward <hi>Finglas,</hi> and Sr. <hi>Charles</hi> with his marcht towards <hi>Santrey,</hi> in both which Towns the Rebels lay in garriſon, the Towns are both al<g ref="char:EOLhyphen"/>moſt one diſtance fron hence, the fartheſt of them is accounted but 2 miles and they are about a middle diſtant the one from the other; Sr <hi>Charl<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> quickly put his Rebels to flight, who ſeemed to bee furious at firſt, and made great ſhews with their coullers diſplay'd, but durſt not ſtand to fight; Sr <hi>Charles</hi> burnt the Towne and the next Towne to it, and then marcht towards my Lord of <hi>Ormand,</hi> who was then in fight with the Rebels of <hi>Finglas,</hi> and twas reported that he was in danger at that time; the Rebels ſeeing another Army comming towards them from the way of <hi>Santrey,</hi> thought it had been their own comming to helpe them, but as ſoon as they perceived the contrary they fled; their Coro<g ref="char:EOLhyphen"/>nall (being a man too familliar amongſt us) amongſt the reſt of his Re<g ref="char:EOLhyphen"/>bell-rout fled, leaving behind him his hat, ſcarlet coate, and blue pluſh <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lin'd with fur, which were <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> but were known to <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
